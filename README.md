@@ -102,6 +102,3 @@ For your convenience, here is a list of all the exercises, with links to view th
 [Ultimate Rust 2: Intermediate Concepts]: https://github.com/CleanCut/ultimate_rust2
 [`rust-analyzer`]: https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer
 [`intellij-rust`]: https://intellij-rust.github.io/
-
-
-# Test 
